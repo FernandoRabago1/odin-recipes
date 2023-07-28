@@ -1,0 +1,36 @@
+
+*{
+    background-color: rgb(15, 3, 38);
+    font-family: Impact;
+    text-align: center;
+}
+
+h1, h2, p, a {
+    color: white;
+}
+
+h2{
+    background-color: rgba(250, 235, 215, 0.425);
+}
+
+a{
+    font-size: larger;
+    text-decoration:none;
+}
+
+li{
+    list-style-type:lower-greek;
+    color: white;
+}
+
+.boton{
+    color: rgb(15, 3, 38);
+    background-color: rgb(255, 255, 255);
+    border-radius: 40px;
+    border-color: white;
+}
+
+.platillo{
+    max-width: 65%;
+    max-height: auto;
+}
