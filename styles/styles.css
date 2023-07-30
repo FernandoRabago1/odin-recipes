@@ -22,6 +22,8 @@ a{
 li{
     list-style-type:lower-greek;
     color: white;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .boton{
@@ -35,7 +37,6 @@ li{
 }
 
 .platillo{
-    max-width: 65%;
     max-height: 400px;
 }
 
